@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coldest noise coded
+title: Photos
 permalink: /photos/
 ---
 
