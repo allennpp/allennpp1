@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Video, concrete, poestry
+title: Video, concrete, poetry
 permalink: /videoconcretepoetry/
 ---
