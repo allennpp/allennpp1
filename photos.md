@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ab
-permalink: /ab/
+permalink: /photos/
 ---
 
 
