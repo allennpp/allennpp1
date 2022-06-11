@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![About](/least-github-pages/assets/About.jpeg)
+![about](/least-github-pages/assets/about.jpeg)
 
 My name is Alejandro Ramirez, experimental writer from Bogotá, Colombia, Living in Moscow for a while.  
 
