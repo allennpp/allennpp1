@@ -4,7 +4,7 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
-<img src="/images/Photo 2.JPG" alt="portrait" width="300"/>
+<img src="/images/Photo3.JPG" alt="portrait" width="300"/>
 
 
 Everyone can walk in the sky
