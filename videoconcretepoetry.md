@@ -4,9 +4,5 @@ title: Video, concrete, poetry
 permalink: /videoconcretepoetry/
 ---
 
-
-<div class="videoWrapper">
-		
-		<iframe width="560" height="349" src="concretepoetry2.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
   
-	</div>
