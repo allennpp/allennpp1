@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ph
+title: Photos from nowhere
 permalink: /photos/
 ---
 
