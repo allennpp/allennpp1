@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: paga
 title: Photos
 permalink: /photos/
 ---
