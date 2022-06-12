@@ -4,14 +4,13 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
-<img src="/images/Photo3.JPG" alt="portrait" width="300"/>
+<img src="/images/Photo3.JPG" alt="portrait" width="500"/>
 
 
-Everyone can walk in the sky
-just jump on the infinite cotton
+Take your sins and build a now code program
 
 
-<img src="/images/Photo 1.JPG" alt="portrait" width="300"/>
+<img src="/images/Photo 1.JPG" alt="portrait" width="400"/>
 
 
 
