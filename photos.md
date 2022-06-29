@@ -5,6 +5,10 @@ permalink: /photos/
 ---
 
 
+<img src="/images/Photo 6.JPG" alt="portrait" width="500"/>
+
+The kids don't want to play war games
+
 <img src="/images/Photo 5.JPG" alt="portrait" width="500"/>
 
 
