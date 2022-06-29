@@ -5,6 +5,18 @@ permalink: /photos/
 ---
 
 
+
+Favorite mountain 
+
+<img src="/images/Photo 11.JPG" alt="portrait" width="500"/>
+
+
+The Saint Petersburg symbol is a cat
+
+<img src="/images/Photo 10.JPG" alt="portrait" width="500"/>
+
+
+
 We will meet again father
 
 <img src="/images/Photo 9.JPG" alt="portrait" width="500"/>
