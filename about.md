@@ -8,7 +8,7 @@ permalink: /about/
 
 My name is Alejandro Ramirez, sometimes writer, from Bogotá, Colombia, Living in Moscow for a while.  
 
-Меня зовут Алехандро Рамирес. некогда писател. из Богота. Колумбя. Живут в Москве некоторое время. 
+Меня зовут Алехандро Рамирес. некогда писател. из Боготий. Колумбя. Живут в Москве некоторое время. 
 
 
 ### Contact me
