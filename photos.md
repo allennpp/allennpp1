@@ -5,6 +5,10 @@ permalink: /photos/
 ---
 
 
+<img src="/images/Photo 9.JPG" alt="portrait" width="500"/>
+
+We will meet again father
+
 <img src="/images/Photo 8.JPG" alt="portrait" width="500"/>
 
 I'll pray for us
