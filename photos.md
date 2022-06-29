@@ -4,6 +4,12 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
+
+<img src="/images/Photo 5.JPG" alt="portrait" width="500"/>
+
+
+Rise our shutted sky
+
 <img src="/images/Photo 4.JPG" alt="portrait" width="500"/>
 
 
