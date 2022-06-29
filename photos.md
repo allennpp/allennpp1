@@ -57,9 +57,9 @@ Few days in Moscow
 <img src="/images/Photo 14.JPG" alt="portrait" width="500"/>
 
 
-Sicence is not always an asnwer 
+Science is not always an asnwer 
 
-<img src="/images/Photo 13.JPG" alt="portrait" width="500"/>
+<img src="/images/Photo13.JPG" alt="portrait" width="500"/>
 
 
 Once I was public school teacher and I meet some dogs
