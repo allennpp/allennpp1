@@ -4,6 +4,12 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
+<img src="/images/Photo4.JPG" alt="portrait" width="500"/>
+
+
+Live in all who can get education 
+
+
 <img src="/images/Photo3.JPG" alt="portrait" width="500"/>
 
 
