@@ -5,7 +5,11 @@ permalink: /photos/
 ---
 
 
-<img src="/images/Photo 6.JPG" alt="portrait" width="500"/>
+<img src="/images/Photo 8.JPG" alt="portrait" width="500"/>
+
+I'll pray for us
+
+<img src="/images/Photo 7.JPG" alt="portrait" width="500"/>
 
 Sing to all who can't sing
 
