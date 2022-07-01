@@ -9,8 +9,6 @@ permalink: /3D Poetry/
 ..
 
 
-<image src="/media/SpinnersExamples.gif" alt="Spinners" width="450" /> 
-
 
 https://media.giphy.com/media/D8f55hRV0ujBjDOe3w/giphy.gif
 
