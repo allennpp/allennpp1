@@ -8,5 +8,12 @@ permalink: /3D Poetry/
 ..
 ..
 
-<img src="https://media.giphy.com/media/D8f55hRV0ujBjDOe3w/giphy.gif" width="600" height="400" />
+
+<image src="/media/SpinnersExamples.gif" alt="Spinners" width="450" /> 
+
+
+https://media.giphy.com/media/D8f55hRV0ujBjDOe3w/giphy.gif
+
+
+<iframe src="https://giphy.com/embed/D8f55hRV0ujBjDOe3w" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/D8f55hRV0ujBjDOe3w">via GIPHY</a></p>
 
