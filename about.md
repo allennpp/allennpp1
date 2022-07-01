@@ -13,4 +13,4 @@ My name is Alejandro Ramirez, sometimes writer, from Bogotá, Colombia, Living i
 
 ### Contact me
 
-[alejandroramirezpena@gmai.com](mailto:email@domain.com)
+[alejandroramirezpena@gmail.com](mailto:email@domain.com)
