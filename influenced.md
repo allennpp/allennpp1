@@ -1,5 +1,12 @@
 ---
 layout: page
-title: Influenced by
-permalink: /influenced/
+title: 3D
+permalink: /3D Poetry/
 ---
+
+
+..
+..
+
+<img src="https://media.giphy.com/media/D8f55hRV0ujBjDOe3w/giphy.gif" width="200" height="100" />
+
