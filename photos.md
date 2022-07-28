@@ -4,7 +4,23 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
+AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
+
+
+This bridge remains me Gumo
+
+<img src="/images/photo29.JPG" alt="portrait" width="500"/>
+
+
+All Russia is connected by train
+
+<img src="/images/photo28.JPG" alt="portrait" width="500"/>
+
+
+The subway is like an old restaurant
+
+<img src="/images/photo27.JPG" alt="portrait" width="500"/>
 
 
 Bautiful font at beautiful park
@@ -12,7 +28,7 @@ Bautiful font at beautiful park
 <img src="/images/Photo 25.JPG" alt="portrait" width="500"/>
 
 
-All Russians have someone who batled in the war
+All Russians have someone who went to the war
 
 <img src="/images/Photo 24.JPG" alt="portrait" width="500"/>
 
@@ -22,12 +38,12 @@ Couples outside paintings
 <img src="/images/Photo 23.JPG" alt="portrait" width="500"/>
 
 
-Angels from the subway
+Subway angels
 
 <img src="/images/Photo 22.JPG" alt="portrait" width="500"/>
 
 
-Someone speaks with the snow
+Someone speaks with snow
 
 <img src="/images/Photo 21.JPG" alt="portrait" width="500"/>
 
@@ -37,7 +53,7 @@ Where will go skaters in winter?
 <img src="/images/Photo 18.JPG" alt="portrait" width="500"/>
 
 
-The biggest sculpture in a city 
+The biggest sculpture in Moscow
 
 <img src="/images/Photo 17.JPG" alt="portrait" width="500"/>
 
