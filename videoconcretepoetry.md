@@ -10,7 +10,7 @@ Este espacio muestra algunos vídeos y fotos
 
 
 <div align = "center" class="myvideo">
-   <video controls muted style="display:block; width:200; height:200;" autoplay controls loop="loop">
+   <video controls muted style="display:block; width:100; height:100;" autoplay controls loop="loop">
        <source src="/images/Concretepoetry2.mp4" />
    </video>
 </div>
