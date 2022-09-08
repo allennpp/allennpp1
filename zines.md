@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video, concrete, poetry
+title: Zines
 permalink: /videoconcretepoetry/
 ---
 
