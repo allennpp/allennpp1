@@ -6,10 +6,12 @@ permalink: /about/
 
 <img src="/images/about.jpeg" alt="portrait" width="400"/>
 
-My name is Alejandro Ramirez, sometimes writer, from Bogotá, Colombia, Living in Moscow for a while.  
+My name is Alejandro Ramirez. Interested in videoart, poetry, cultural critic and photography. From Bogotá, Colombia, Living in Moscow for a while.  
 
-Меня зовут Алехандро Рамирес. некогда писател. из Боготий. Колумбя. Живут в Москве некоторое время. 
+Меня зовут Алехандро Рамирес. Интересуется видео-артом, стихи, Културологией и фотографией. Из Боготий. Колумбя. Живут в Москве некоторое время. 
 
+
+If you want make something just tell me.
 
 ### Contact me
 
