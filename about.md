@@ -11,7 +11,7 @@ My name is Alejandro Ramirez. Interested in videoart, poetry, cultural critic an
 Меня зовут Алехандро Рамирес. Интересуется видео-артом, стихи, Културологией и фотографией. Из Боготий. Колумбя. Живут в Москве некоторое время. 
 
 
-If you want make something just tell me.
+If you want to make something just tell me.
 
 ### Contact me
 
