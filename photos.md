@@ -23,7 +23,7 @@ The subway is like an old restaurant
 <img src="/images/photo27.JPG" alt="portrait" width="500"/>
 
 
-Bautiful font at beautiful park
+Beautiful font at beautiful park
 
 <img src="/images/Photo 25.JPG" alt="portrait" width="500"/>
 
@@ -48,7 +48,7 @@ Someone speaks with snow
 <img src="/images/Photo 21.JPG" alt="portrait" width="500"/>
 
 
-Where will go skaters in winter?
+Where are skaters going in winter?
 
 <img src="/images/Photo 18.JPG" alt="portrait" width="500"/>
 
@@ -78,7 +78,7 @@ Science is not always an asnwer
 <img src="/images/Photo13.JPG" alt="portrait" width="500"/>
 
 
-Once I was public school teacher and I meet some dogs
+Once I was a public school teacher and I meet some dogs
 
 <img src="/images/Photo 12.JPG" alt="portrait" width="500"/>
 
@@ -117,7 +117,7 @@ Rise our shutted sky
 <img src="/images/Photo 5.JPG" alt="portrait" width="500"/>
 
 
-Live in all who can get education 
+Live  
 
 <img src="/images/Photo 4.JPG" alt="portrait" width="500"/>
 
