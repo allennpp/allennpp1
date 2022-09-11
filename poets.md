@@ -15,9 +15,9 @@ En este espacio compartiré algunas cosas que me parezcan interesantes.
 
 
 Ronald Reagan didn’t say the word<br> 
-  AIDS. He said<br> 
+  <p>&nbsp;</p>AIDS. He said<br> 
 people can’t sue corporations for vaccine.<br>  
-  damages.<br> 
+  <p>&nbsp;</p>damages.<br> 
 Now Trump is slashing all the red tape,<br> 
 etc.,<br>   
 and Bill Gates is involved.<br>  
@@ -30,7 +30,7 @@ who did Event 201.<br>
 
 Google it. Microsoft co-founder Bill Gates<br>
 wants to make human-implantable<br>
-  capsules<br>
+  <p>&nbsp;</p>capsules<br>
 which can show who has been vaccinated<br>
 against the coronavirus.<br>
 
