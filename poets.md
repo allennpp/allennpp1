@@ -17,7 +17,7 @@ En este espacio compartiré algunas cosas que me parezcan interesantes.
 Ronald Reagan didn’t say the word<br> 
   <p>&nbsp;</p>AIDS. He said<br> 
 people can’t sue corporations for vaccine.<br>  
-  <p>&nbsp;</p>damages.<br> 
+ &nbsp;damages.<br> 
 Now Trump is slashing all the red tape,<br> 
 etc.,<br>   
 and Bill Gates is involved.<br>  
