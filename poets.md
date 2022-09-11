@@ -15,7 +15,7 @@ En este espacio compartiré algunas cosas que me parezcan interesantes.
 
 
 Ronald Reagan didn’t say the word<br> 
-  <p>&nbsp;</p>AIDS. He said<br> 
+ &nbsp;AIDS. He said<br> 
 people can’t sue corporations for vaccine.<br>  
  &nbsp;damages.<br> 
 Now Trump is slashing all the red tape,<br> 
