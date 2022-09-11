@@ -1,6 +1,6 @@
 ---
 layout: page
-title: poets
+title: ~poets~
 permalink: /poets/
 ---
 
