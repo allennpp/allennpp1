@@ -19,7 +19,7 @@ Ronald Reagan didn’t say the word<br>
 people can’t sue corporations for vaccine.  
   &nbsp;&nbsp;damages.<br> 
 Now Trump is slashing all the red tape,<br> 
-etc.,  
+&nbsp;&nbsp;etc.,  
 and Bill Gates is involved.<br> 
 
 Bill Gates doesn’t trust nature at all.<br>
