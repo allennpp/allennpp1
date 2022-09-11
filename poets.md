@@ -7,20 +7,20 @@ permalink: /poets/
 En este espacio compartiré algunas cosas que me parezcan interesantes. 
 
 
-Tao Lin 
+##Tao Lin 
 
 <img src="/images/Tao Lin.jpeg" alt="portrait" width="100"/>
 
 Bill Gates Seems Evil
 
 
-Ronald Reagan didn’t say the word
-  AIDS. He said
-people can’t sue corporations for vaccine
-  damages.
-Now Trump is slashing all the red tape,
-etc.,
-and Bill Gates is involved.
+Ronald Reagan didn’t say the word<br> 
+  AIDS. He said<br> 
+people can’t sue corporations for vaccine.<br>  
+  damages.<br> 
+Now Trump is slashing all the red tape,<br> 
+etc.,<br>   
+and Bill Gates is involved.  
 
 Bill Gates doesn’t trust nature at all.
 He has a technology
