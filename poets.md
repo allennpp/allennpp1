@@ -7,11 +7,11 @@ permalink: /poets/
 En este espacio compartiré algunas cosas que me parezcan interesantes. 
 
 
-##Tao Lin 
+***Tao Lin*** 
 
 <img src="/images/Tao Lin.jpeg" alt="portrait" width="100"/>
 
-Bill Gates Seems Evil
+**Bill Gates Seems Evil**
 
 
 Ronald Reagan didn’t say the word<br> 
