@@ -50,7 +50,7 @@ and not being on Facebook or Instagram.
 
 <br>
 <br>
-<br>
+
 
 ***Eric Yip*** 
 
@@ -94,5 +94,42 @@ yesterday on repeat. The teapots are refilled. You spoon<br>
 served rice into your mouth, this perfect rice.<br> 
 Steamed, perfect, white.<br> 
 
+<br>
+<br>
 
+***Ocean Vuong*** 
+
+<img src="/images/ocean.jpeg" alt="portrait" width="100"/>
+
+**A Little Closer to the Edge**
+
+Young enough to believe nothing<br>
+will change them, they step, hand-in-hand,<br>
+
+into the bomb crater. The night full<br>
+of  black teeth. His faux Rolex, weeks<br>
+
+from shattering against her cheek, now dims<br>
+like a miniature moon behind her hair.<br>
+
+In this version the snake is headless — stilled<br>
+like a cord unraveled from the lovers’ ankles.<br>
+
+He lifts her white cotton skirt, revealing<br>
+another hour. His hand. His hands. The syllables<br>
+
+inside them. O father, O foreshadow, press<br>
+into her — as the field shreds itself<br>
+
+with cricket cries. Show me how ruin makes a home<br>
+out of  hip bones. O mother,<br>
+
+O minutehand, teach me<br>
+how to hold a man the way thirst<br>
+
+holds water. Let every river envy<br>
+our mouths. Let every kiss hit the body<br>
+
+like a season. Where apples thunder<br>
+the earth with red hooves. & I am your son.
 
