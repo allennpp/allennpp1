@@ -48,5 +48,51 @@ The thing about owls and larks<br>
 not being on Netflix and not tweeting<br>
 and not being on Facebook or Instagram.
 
+<br>
+<br>
+<br>
+
+***Eric Yip*** 
+
+<img src="/images/Yip.jpeg" alt="portrait" width="100"/>
+
+**Fricatives**
+
+
+To speak English properly, Mrs. Lee said, you must learn<br> 
+the difference between three and free. Three men<br> 
+escaped from Alcatraz in a rubber raft and drowned<br> 
+on their way to Angel Island. Hear the difference? Try<br> 
+this: you fought your way into existence. Better. Look<br> 
+at this picture. Fresh yellow grains beaten<br> 
+till their seeds spill. That’s threshing. That’s<br> 
+submission. You must learn to submit<br> 
+before you can learn. You must be given<br> 
+a voice before you can speak. Nobody wants to listen<br> 
+to a spectacled boy with a Hong Kong accent.<br> 
+You will have to leave this city, these dark furrows<br> 
+stuffed full with ancestral bones. Know<br> 
+that death is thorough. You will speak of bruised bodies<br> 
+skinnier than yours, force the pen past batons<br> 
+and blood, call it fresh material for writing. Now<br> 
+they’re paying attention. You’re lucky enough<br> 
+to care about how the tongue moves, the seven types<br> 
+of fricatives, the articulatory function of teeth<br> 
+sans survival. You will receive a good education<br> 
+abroad and make your parents proud. You will take<br> 
+a stranger’s cock in your mouth in the piss-slick stall<br> 
+of that dingy Cantonese restaurant you love and taste<br> 
+where you came from, what you were made of all along.<br> 
+Put some work into it, he growls. C’mon, give me<br> 
+some bite. Your mother visits one October, tells you<br> 
+how everyone speaks differently here, more proper.<br> 
+You smile, nod, bring her to your favourite restaurant,<br> 
+order dim sum in English. They’re releasing<br> 
+the students arrested five years ago. Just a tad more<br> 
+soy sauce please, thank you. The television replays<br> 
+yesterday on repeat. The teapots are refilled. You spoon<br> 
+served rice into your mouth, this perfect rice.<br> 
+Steamed, perfect, white.<br> 
+
 
 
