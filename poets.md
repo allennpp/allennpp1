@@ -133,3 +133,101 @@ our mouths. Let every kiss hit the body<br>
 like a season. Where apples thunder<br>
 the earth with red hooves. & I am your son.
 
+
+<br>
+<br>
+
+***Shen Haobo*** 
+
+<img src="/images/shen.jpeg" alt="portrait" width="100"/>
+
+**Ma Heling in Fact**
+
+In fact she’s a person waiting for death<br>
+
+the way hundreds of people do in this village.<br>
+
+In fact her husband is one already dead<br>
+
+just like all the other dead persons in this village.<br>
+
+In fact she hasn’t reconciled herself to dying in that way.<br>
+
+In fact she remarried less than a year after her husband’s death.<br>
+
+In fact the man who married her also had a newly dead wife.<br>
+
+In fact Ma Heling, now in her fifties,<br>
+
+still looks plump and handsome.<br>
+
+In fact she’s got AIDS that has started to affect her.<br>
+
+In fact there are hundreds of people waiting for death like her.<br>
+
+In fact the man who married her was a normal healthy guy.<br>
+
+In fact this guy had no choice but to marry an AIDS victim<br>
+
+if he still wanted a woman.<br>
+
+In fact it’s impossible for any healthy woman to marry<br>
+
+a man whose wife has just died of AIDS.<br>
+
+In fact death has ___set___tled down in this village,<br>
+
+collecting people without even giving notice.<br>
+
+In fact the village is done for, dying out.<br>
+
+In fact they are still alive.<br>
+
+In fact they have to live until they die.<br>
+
+In fact they have to do some living things before their death.<br>
+
+In fact the man who married her really wanted to marry her,<br>
+
+for he, in his prime, needed a woman; even though she,<br>
+
+in fact useless, could only sit there or<br>
+
+walk slowly with her hands tucked in her sleeves,<br>
+
+he still wanted to marry her.<br>
+
+In fact this woman can still spread her legs in bed.<br>
+
+In fact this woman still has plenty of flesh.<br>
+
+He does wish she’d never die so that every night<br>
+
+there would be a living woman lying in his bed.<br>
+
+In fact the village distributes condoms to every family.<br>
+
+In fact the man who married her never uses condoms.<br>
+
+In fact she once asked, Aren’t you afraid of getting infected Aren’t you<br>
+
+afraid of death?<br>
+
+In fact he is afraid of death,<br>
+
+while in fact he still doesn’t use condoms,<br>
+
+doesn’t think he’ll be so unfortunate, in fact in their village<br>
+
+almost all the men of his age have been unfortunate<br>
+
+but in fact they got infected by selling blood, in fact<br>
+
+the man who married her has never heard of anyone falling ill by fucking his wife.<br>
+
+In fact, to a peasant, fucking one’s wife with a rubber sheath –<br>
+
+that sounds in fact more fucking incredible than death.<br>
+
+<br>
+<br>
