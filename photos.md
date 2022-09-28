@@ -8,6 +8,10 @@ AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH
 
 
 
+Where is he going to sleep in one month?
+
+<img src="/images/photo30.JPG" alt="portrait" width="500"/>
+
 This bridge remains me Gumo
 
 <img src="/images/photo29.JPG" alt="portrait" width="500"/>
