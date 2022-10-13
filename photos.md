@@ -9,7 +9,7 @@ AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH
 
 Cat eyes
 
-<img src="/images/Photo31.JPG" alt="portrait" width="500"/>
+<img src="/images/Photo32.JPG" alt="portrait" width="500"/>
 
 
 Stairs without end
