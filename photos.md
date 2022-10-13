@@ -7,6 +7,15 @@ permalink: /photos/
 AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
 
+Cat eyes
+
+<img src="/images/Photo31.JPG" alt="portrait" width="500"/>
+
+
+Stairs without end
+
+<img src="/images/Photo31.JPG" alt="portrait" width="500"/>
+
 
 Where is he going to sleep in one month?
 
