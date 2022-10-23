@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/about.jpeg" alt="portrait" width="400"/>
+<img src="/images/yokk.jpg" alt="portrait" width="400"/>
 
 My name is Alejandro Ramirez. Interested in videoart, poetry, cultural critic and photography. From Bogotá, Colombia, Living in Moscow for a while.  
 
