@@ -6,6 +6,17 @@ permalink: /photos/
 
 AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
+
+First win-terminal
+
+<img src="/images/photo37.JPG" alt="portrait" width="500"/>
+
+
+Blue sky 2023
+
+<img src="/images/photo36.JPG" alt="portrait" width="500"/>
+
+
 Mercy with us. Одесский
 
 <img src="/images/photo33.JPG" alt="portrait" width="500"/>
