@@ -11,5 +11,5 @@ That's why he is a good writer.”<br>
 Jonatan Aron Leandoer<br> 
 
 
-![Yunglean](/images/yung1.JPG)
+![Yunglean](/images/yung1.PNG)
 
