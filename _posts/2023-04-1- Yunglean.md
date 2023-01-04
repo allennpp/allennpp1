@@ -33,7 +33,7 @@ What's your blood type, what does it taste like?
 Ridin' on my bike when this rain is comin' down
 All my boys can fly, we're like angels in the night
 
-<iframe width="700" height="375" src="https://www.youtube.com/embed/6wgFliyJ4Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="375" src="https://www.youtube.com/embed/6wgFliyJ4Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 Yung Lean no solo sigue los patrones del artista joven que se droga mientras su fama crece vertiginosamente, sino que también muestra como se puede hacer mejor trap desde un Estado de bienestar como Suecia, con todos los privilegios que eso implica. Que su final no es el mismo que el de los jóvenes llevados por los excesos y que su inicio se dio a conocer sus amigos en una convención de Britney Spears, lógico inicio según todo lo que significa Yung Lean. 
 
@@ -44,9 +44,10 @@ El abuso de sustancias psicoactivas llevaron a Jonatan a recluirse por un tiempo
 Jonatan es singular porque desafía los paradigmas del trap de EEUU, lo adopta, lo subvierte y lo vuelve adicción corporal y mental que quiere ser superada, que es también la condición para vivir en las sociedades occidentales desarrolladas. Solo es necesario entrar a ver los comentarios en Youtube o en los vídeos de conciertos cuando jóvenes repiten que la música de Yung Lean les salvó la vida, porque en el fondo Yung Lean no es un patrón a seguir, nadie quiere tener cara de niño gordo e inocente que vive en Estocolmo, la respuesta está en cómo logra dar las posibilidades tanto de caída como de redención, su caída en las drogas y problemas mentales y su posterior recuperación son los caminos a seguir y se pueden hacer las dos cosas con su música. Caer y caer sin final o redimirse, pero ninguna es condición necesaria de la otra, la única posibilidad es una constante caída o constante redención.
 
 
-A bottle of wine,<br>
+***A bottle of wine,<br>
 a bishop - <br>
-Everything is God <br>
+Everything is God*** <br>
+
 Jack Kerouac<br>
 
 
