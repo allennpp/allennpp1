@@ -22,7 +22,7 @@ La anomalía en este personaje es que se encuentra en dos polos que así mismo s
 ![Yunglean](/images/yung2.jpg)
 
 
-Yung Lean no está solo, tiene un equipo de producción que al mismo tiempo son sus mejores amigos: “Sad Boys”, encargados de los vídeos, sonidos, giras, etc., como también de todos sus excesos. En su documental en Vice “Yung Lean: In My Head”,  muestran como en su gira en Miami Barron Machat, su colaborador en EEUU con el sello discográfico Hippos in Tanks, muere en un accidente automovilístico en Miami, mientras Lean es llevado a un hospital psiquiátrico por paranoia y tendencias suicidas que más adelante resultarían en bipolaridad. Entonces hay otra dicotomía, entre la vida y la muerte, que también está en su música, el éxtasis de la vida, junto con una tendencia autodestructiva, que muy bien puede verse en su canción “Highway Patrol”, dentro del que creo es su mejor albúm “Warlord”. 
+Yung Lean no está solo, tiene un equipo de producción que al mismo tiempo son sus mejores amigos: “Sad Boys”, encargados de los vídeos, sonidos, giras, etc., como también de todos sus excesos. En su documental en Vice “Yung Lean: In My Head”,  muestran como en su gira en Miami Barron Machat, su colaborador en EEUU con el sello discográfico Hippos in Tanks, muere en un accidente automovilístico, mientras Lean es llevado a un hospital psiquiátrico por paranoia y tendencias suicidas que más adelante resultarían en bipolaridad. Entonces hay otra dicotomía, entre la vida y la muerte, que también está en su música, el éxtasis de la vida, junto con una tendencia autodestructiva, que muy bien puede verse en su canción “Highway Patrol”, dentro del que creo es su mejor albúm “Warlord”. 
 
 
 Yeah, I got the knife, I don't wanna use it tonight
