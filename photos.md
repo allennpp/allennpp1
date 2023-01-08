@@ -7,6 +7,11 @@ permalink: /photos/
 AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
 
+Trails, trains, treats.
+
+<img src="/images/photo37.JPG" alt="portrait" width="500"/>
+
+
 First win-terminal
 
 <img src="/images/photo36.JPG" alt="portrait" width="500"/>
