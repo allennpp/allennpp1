@@ -14,7 +14,7 @@ Leaves as snowflakes:<br>
 
 
 
-[Ver](https://sparkly-spark-botany.glitch.me/))
+[Ver](https://sparkly-spark-botany.glitch.me/)
 
 Poetic box:<br>
 <p>&nbsp;</p>
