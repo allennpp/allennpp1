@@ -4,7 +4,6 @@ title: TRESD
 permalink: /tresd/
 ---
 
-Esta sección compartiré contenido narrativo experimental.
 <p>&nbsp;</p>
 
 Leaves as snowflakes:<br>
