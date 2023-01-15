@@ -11,7 +11,7 @@ AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH
 
 <img src="/images/photo41.JPG" alt="portrait" width="500"/>
 
-З-ЗИ-ЗИМ-ЗИМА?.
+З-ЗИ-ЗИМ-ЗИМА.
 
 <img src="/images/photo40.JPG" alt="portrait" width="500"/>
 
