@@ -7,6 +7,19 @@ permalink: /photos/
 AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
 
+Круг.
+
+<img src="/images/photo41.JPG" alt="portrait" width="500"/>
+
+З-ЗИ-ЗИМ-ЗИМА?.
+
+<img src="/images/photo40.JPG" alt="portrait" width="500"/>
+
+Где мой документы?.
+
+<img src="/images/photo39.JPG" alt="portrait" width="500"/>
+
+
 Trails, trains, treats.
 
 <img src="/images/photo37.JPG" alt="portrait" width="500"/>
