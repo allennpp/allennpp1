@@ -10,7 +10,7 @@ Fake it till you make it<br>
 <img src="https://media.giphy.com/media/k8Bz6ZVXZpJE7zz6fB/giphy.gif" width="600" height="400" />
 
 
-[Ver](https://east-carnelian-beast.glitch.me/))
+[Ver](https://east-carnelian-beast.glitch.me/)
 
 <p>&nbsp;</p>
 
