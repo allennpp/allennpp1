@@ -4,7 +4,46 @@ title: POETS
 permalink: /poets/
 ---
 
-En este espacio compartiré algunas cosas que me parezcan interesantes. 
+***Yuxi Lin***
+<img src="/images/Yuxi.jpeg" alt="portrait" width="100"/>
+
+**Self-Portrait as Masturbator**
+
+Come—swim in me, tread<br>
+upon shores of cenotes<br>
+unburied. In the<br>
+
+water is a sheep<br>
+led by the horns, a hand there,<br>
+white-knuckled, grasping,<br>
+
+but it’s you blinking<br>
+through her slow lashes. You had<br>
+convinced yourself (or<br>
+
+were convinced) that Out<br>
+There is where Fear lives, walking<br>
+in a body not<br>
+
+your own & if you<br>
+kept your head down you might not<br>
+meet its hollow mouth<br>
+
+skimming over your<br>
+smooth surfaces. It’s smaller<br>
+than you’d imagined—<br>
+
+the red curve where God’s<br>
+knife sliced through trying to draw<br>
+the perfect circle.<br>
+
+You are the head that<br>
+emerges on the other<br>
+side of love, the eye<br>
+
+of a thousand lids<br>
+opening, searching, ***I’ve<br>
+arrived, I’ve arrived***—<br>
 
 
 ***Tao Lin*** 
