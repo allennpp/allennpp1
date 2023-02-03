@@ -5,6 +5,7 @@ permalink: /poets/
 ---
 
 ***Yuxi Lin***
+
 <img src="/images/Yuxi.jpeg" alt="portrait" width="100"/>
 
 **Self-Portrait as Masturbator**
