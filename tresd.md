@@ -4,6 +4,20 @@ title: TRESD
 permalink: /tresd/
 ---
 
+
+Poetic box 2: trilingual haiku<br>
+<p>&nbsp;</p>
+
+
+<img src="https://media.giphy.com/media/EEvLSBOlkfe2aPUq5r/giphy.gif" width="600" height="400" />
+
+
+[Ver](https://rich-different-afterthought.glitch.me/)
+
+<p>&nbsp;</p>
+
+
+
 Fake it till you make it<br>
 <p>&nbsp;</p>
 
