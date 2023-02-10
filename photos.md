@@ -4,8 +4,14 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
-AT THE END ALL YOU CAN SEE COULD BE A PHOTOGRAPH 
 
+Кран.
+
+<img src="/images/photo43.JPG" alt="portrait" width="500"/>
+
+Почва.
+
+<img src="/images/photo42.JPG" alt="portrait" width="500"/>
 
 Круг.
 
