@@ -4,6 +4,10 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
+общение
+
+<img src="/images/photo46.JPG" alt="portrait" width="500"/>
+
 Украинское солнце и ночь
 
 <img src="/images/photo45.JPG" alt="portrait" width="500"/>
