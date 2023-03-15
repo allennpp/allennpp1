@@ -4,6 +4,15 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
+Телефон Дари
+
+<img src="/images/photo48.JPG" alt="portrait" width="500"/>
+
+
+Отец
+
+<img src="/images/photo47.JPG" alt="portrait" width="500"/>
+
 общение
 
 <img src="/images/photo46.JPG" alt="portrait" width="500"/>
