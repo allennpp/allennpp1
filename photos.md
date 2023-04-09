@@ -4,7 +4,26 @@ title: Photos from nowhere
 permalink: /photos/
 ---
 
-Телефон Дари
+Маша 
+
+
+<img src="/images/photo52.JPG" alt="portrait" width="500"/>
+
+
+Миша 
+
+
+<img src="/images/photo51.JPG" alt="portrait" width="500"/>
+
+
+Украинское солнце и ночь II
+
+
+<img src="/images/photo50.JPG" alt="portrait" width="500"/>
+
+
+
+ Дария Телефона
 
 <img src="/images/photo48.JPG" alt="portrait" width="500"/>
 
